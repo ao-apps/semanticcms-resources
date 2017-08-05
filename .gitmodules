@@ -1,0 +1,12 @@
+[submodule "all"]
+	path = all
+	url = git@github.com:aoindustries/semanticcms-resources-all.git
+[submodule "empty"]
+	path = empty
+	url = git@github.com:aoindustries/semanticcms-resources-empty.git
+[submodule "filesystem"]
+	path = filesystem
+	url = git@github.com:aoindustries/semanticcms-resources-filesystem.git
+[submodule "union"]
+	path = union
+	url = git@github.com:aoindustries/semanticcms-resources-union.git
