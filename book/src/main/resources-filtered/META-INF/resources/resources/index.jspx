@@ -33,12 +33,13 @@ along with semanticcms-resources.  If not, see <http://www.gnu.org/licenses />.
 		title="@{documented.name}"
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
-		datePublished="2017-08-04T19:13:29-0500"
+		datePublished="2017-08-22T18:37:12-0500"
 	>
 		<core:child page="changelog.jspx" />
 		<core:child book="/resources/all" page="/index.jspx" />
 		<core:child book="/resources/empty" page="/index.jspx" />
 		<core:child book="/resources/filesystem" page="/index.jspx" />
+		<core:child book="/resources/unavailable" page="/index.jspx" />
 		<core:child book="/resources/union" page="/index.jspx" />
 		<ao:include
 			page="/ao-badges/badges.inc.jspx"
@@ -64,6 +65,7 @@ along with semanticcms-resources.  If not, see <http://www.gnu.org/licenses />.
 				<li><core:link book="/resources/all" page="/index.jspx" /></li>
 				<li><core:link book="/resources/empty" page="/index.jspx" /></li>
 				<li><core:link book="/resources/filesystem" page="/index.jspx" /></li>
+				<li><core:link book="/resources/unavailable" page="/index.jspx" /></li>
 				<li><core:link book="/resources/union" page="/index.jspx" /></li>
 			</ul>
 		</section:section>

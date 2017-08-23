@@ -30,6 +30,7 @@ Aggregator POM for additional redistributable sets of [SemanticCMS](https://sema
 * [SemanticCMS Resources All](https://semanticcms.com/resources/all/)
 * [SemanticCMS Resources Empty](https://semanticcms.com/resources/empty/)
 * [SemanticCMS Resources Filesystem](https://semanticcms.com/resources/filesystem/)
+* [SemanticCMS Resources Unavailable](https://semanticcms.com/resources/unavailable/)
 * [SemanticCMS Resources Union](https://semanticcms.com/resources/union/)
 
 ## Related Projects

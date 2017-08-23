@@ -10,3 +10,6 @@
 [submodule "union"]
 	path = union
 	url = git@github.com:aoindustries/semanticcms-resources-union.git
+[submodule "unavailable"]
+	path = unavailable
+	url = git@github.com:aoindustries/semanticcms-resources-unavailable.git
