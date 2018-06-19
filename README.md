@@ -1,4 +1,4 @@
-# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [SemanticCMS](https://semanticcms.com/) / [Resources](https://semanticcms.com/resources/)
+# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/aoindustries) [SemanticCMS](https://github.com/aoindustries/semanticcms) / [Resources](https://github.com/aoindustries/semanticcms-resources)
 <p>
 	<a href="https://aoindustries.com/life-cycle#project-alpha">
 		<img src="https://semanticcms.com/ao-badges/project-alpha.svg" alt="project: alpha" />
@@ -18,7 +18,7 @@
 	</a>
 </p>
 
-Aggregator POM for additional redistributable sets of [SemanticCMS](https://semanticcms.com/) resources.
+Aggregator POM for additional redistributable sets of [SemanticCMS](https://github.com/aoindustries/semanticcms) resources.
 
 ## Project Links
 * [Project Home](https://semanticcms.com/resources/)
@@ -27,15 +27,15 @@ Aggregator POM for additional redistributable sets of [SemanticCMS](https://sema
 * [GitHub](https://github.com/aoindustries/semanticcms-resources)
 
 ## Modules
-* [SemanticCMS Resources All](https://semanticcms.com/resources/all/)
-* [SemanticCMS Resources Empty](https://semanticcms.com/resources/empty/)
-* [SemanticCMS Resources Filesystem](https://semanticcms.com/resources/filesystem/)
-* [SemanticCMS Resources Unavailable](https://semanticcms.com/resources/unavailable/)
-* [SemanticCMS Resources Union](https://semanticcms.com/resources/union/)
+* [SemanticCMS Resources All](https://github.com/aoindustries/semanticcms-resources-all)
+* [SemanticCMS Resources Empty](https://github.com/aoindustries/semanticcms-resources-empty)
+* [SemanticCMS Resources Filesystem](https://github.com/aoindustries/semanticcms-resources-filesystem)
+* [SemanticCMS Resources Unavailable](https://github.com/aoindustries/semanticcms-resources-unavailable)
+* [SemanticCMS Resources Union](https://github.com/aoindustries/semanticcms-resources-union)
 
 ## Related Projects
-* [SemanticCMS Core Resources](https://semanticcms.com/core/resources/)
-* [SemanticCMS Core Resources Servlet](https://semanticcms.com/core/resources/servlet/)
+* [SemanticCMS Core Resources](https://github.com/aoindustries/semanticcms-core-resources)
+* [SemanticCMS Core Resources Servlet](https://github.com/aoindustries/semanticcms-core-resources-servlet)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):
