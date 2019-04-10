@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 semanticcms-resources - Aggregator POM for additional redistributable sets of SemanticCMS resources.
-Copyright (C) 2017, 2018  AO Industries, Inc.
+Copyright (C) 2017, 2018, 2019  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
     Mobile, AL 36695
@@ -32,7 +32,7 @@ along with semanticcms-resources.  If not, see <http://www.gnu.org/licenses />.
 	<groupId>com.semanticcms</groupId><artifactId>semanticcms-resources</artifactId><version>2.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>SemanticCMS Resources</name>
+	<name>SemanticCMS 2 Resources</name>
 	<url>https://semanticcms.com/resources/</url>
 	<description>Aggregator POM for additional redistributable sets of SemanticCMS resources.</description>
 	<inceptionYear>2017</inceptionYear>
