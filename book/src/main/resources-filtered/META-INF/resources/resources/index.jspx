@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 semanticcms-resources - Aggregator POM for additional redistributable sets of SemanticCMS resources.
-Copyright (C) 2017  AO Industries, Inc.
+Copyright (C) 2017, 2019  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
     Mobile, AL 36695
@@ -34,6 +34,7 @@ along with semanticcms-resources.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
 		datePublished="2017-08-22T18:37:12-0500"
+		dateModified="2019-06-01T00:46:53-0500"
 	>
 		<core:child page="changelog" />
 		<core:child book="/resources/all" page="/" />
@@ -41,14 +42,16 @@ along with semanticcms-resources.  If not, see <http://www.gnu.org/licenses />.
 		<core:child book="/resources/filesystem" page="/" />
 		<core:child book="/resources/unavailable" page="/" />
 		<core:child book="/resources/union" page="/" />
-		<ao:include
-			page="/ao-badges/badges.inc.jspx"
-			arg.projectStatus="${currentPage.property.projectStatus}"
-			arg.managementStatus="${currentPage.property.managementStatus}"
-			arg.packagingStatus="${currentPage.property.packagingStatus}"
-			arg.semanticVersioning="${currentPage.property.semanticVersioning}"
-			arg.license="${currentPage.property.license}"
-		/>
+		<header>
+			<ao:include
+				page="/ao-badges/badges.inc.jspx"
+				arg.projectStatus="${currentPage.property.projectStatus}"
+				arg.managementStatus="${currentPage.property.managementStatus}"
+				arg.packagingStatus="${currentPage.property.packagingStatus}"
+				arg.semanticVersioning="${currentPage.property.semanticVersioning}"
+				arg.license="${currentPage.property.license}"
+			/>
+		</header>
 		<p>
 			Aggregator POM for additional redistributable sets of <core:link book="/" page="/" /> resources.
 		</p>
