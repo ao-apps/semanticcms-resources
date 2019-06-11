@@ -13,3 +13,6 @@
 [submodule "unavailable"]
 	path = unavailable
 	url = git@github.com:aoindustries/semanticcms-resources-unavailable.git
+[submodule "bom"]
+	path = bom
+	url = git@aoindustries.github.com:aoindustries/semanticcms-resources-bom.git

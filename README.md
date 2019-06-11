@@ -27,6 +27,7 @@ Aggregator POM for additional redistributable sets of [SemanticCMS](https://gith
 * [GitHub](https://github.com/aoindustries/semanticcms-resources)
 
 ## Modules
+* [SemanticCMS Resources BOM](https://github.com/aoindustries/semanticcms-resources-bom)
 * [SemanticCMS Resources All](https://github.com/aoindustries/semanticcms-resources-all)
 * [SemanticCMS Resources Empty](https://github.com/aoindustries/semanticcms-resources-empty)
 * [SemanticCMS Resources Filesystem](https://github.com/aoindustries/semanticcms-resources-filesystem)
