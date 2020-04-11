@@ -1,3 +1,7 @@
+[submodule "bom"]
+	path = bom
+	url = git@github.com:aoindustries/semanticcms-resources-bom.git
+	branch = .
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/semanticcms-resources-all.git
@@ -10,15 +14,11 @@
 	path = filesystem
 	url = git@github.com:aoindustries/semanticcms-resources-filesystem.git
 	branch = .
-[submodule "union"]
-	path = union
-	url = git@github.com:aoindustries/semanticcms-resources-union.git
-	branch = .
 [submodule "unavailable"]
 	path = unavailable
 	url = git@github.com:aoindustries/semanticcms-resources-unavailable.git
 	branch = .
-[submodule "bom"]
-	path = bom
-	url = git@aoindustries.github.com:aoindustries/semanticcms-resources-bom.git
+[submodule "union"]
+	path = union
+	url = git@github.com:aoindustries/semanticcms-resources-union.git
 	branch = .
