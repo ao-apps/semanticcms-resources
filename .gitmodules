@@ -1,24 +1,24 @@
 [submodule "bom"]
-	path = bom
-	url = git@github.com:ao-apps/semanticcms-resources-bom.git
-	branch = .
+  path = bom
+  url = git@github.com:ao-apps/semanticcms-resources-bom.git
+  branch = .
 [submodule "all"]
-	path = all
-	url = git@github.com:ao-apps/semanticcms-resources-all.git
-	branch = .
+  path = all
+  url = git@github.com:ao-apps/semanticcms-resources-all.git
+  branch = .
 [submodule "empty"]
-	path = empty
-	url = git@github.com:ao-apps/semanticcms-resources-empty.git
-	branch = .
+  path = empty
+  url = git@github.com:ao-apps/semanticcms-resources-empty.git
+  branch = .
 [submodule "filesystem"]
-	path = filesystem
-	url = git@github.com:ao-apps/semanticcms-resources-filesystem.git
-	branch = .
+  path = filesystem
+  url = git@github.com:ao-apps/semanticcms-resources-filesystem.git
+  branch = .
 [submodule "unavailable"]
-	path = unavailable
-	url = git@github.com:ao-apps/semanticcms-resources-unavailable.git
-	branch = .
+  path = unavailable
+  url = git@github.com:ao-apps/semanticcms-resources-unavailable.git
+  branch = .
 [submodule "union"]
-	path = union
-	url = git@github.com:ao-apps/semanticcms-resources-union.git
-	branch = .
+  path = union
+  url = git@github.com:ao-apps/semanticcms-resources-union.git
+  branch = .
