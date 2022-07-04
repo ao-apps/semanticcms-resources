@@ -39,7 +39,7 @@ along with semanticcms-resources.  If not, see <https://www.gnu.org/licenses/>.
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
-  <name>SemanticCMS Resources²</name>
+  <name>SemanticCMS Resources</name>
   <url>https://semanticcms.com/resources/</url>
   <description>Aggregator POM for additional redistributable sets of SemanticCMS resources.</description>
   <inceptionYear>2017</inceptionYear>
