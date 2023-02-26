@@ -19,7 +19,7 @@ Aggregator POM for additional redistributable sets of [SemanticCMS](https://gith
 ## Project Links
 * [Project Home](https://semanticcms.com/resources/)
 * [Changelog](https://semanticcms.com/resources/changelog)
-* [Maven Central Repository](https://search.maven.org/artifact/com.semanticcms/semanticcms-resources)
+* [Maven Central Repository](https://central.sonatype.com/search?namespace=com.semanticcms&q=a%3Asemanticcms-resources)
 * [GitHub](https://github.com/ao-apps/semanticcms-resources)
 
 ## Modules
