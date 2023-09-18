@@ -36,6 +36,7 @@ along with semanticcms-resources.  If not, see <https://www.gnu.org/licenses/>.
     <!-- Must be set to ${git.commit.time} for snapshots or ISO 8601 timestamp for releases. -->
     <project.build.outputTimestamp>${git.commit.time}</project.build.outputTimestamp>
     <module.name>com.semanticcms.resources.book</module.name>
+    <subproject.subpath>devel/</subproject.subpath>
     <!-- These values are copied from the project being documented -->
     <documented.artifactId>semanticcms-resources</documented.artifactId>
     <documented.name>SemanticCMS Resources</documented.name>
